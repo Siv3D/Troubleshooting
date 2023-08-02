@@ -1,2 +1,1 @@
-# Troubleshooting
-Troubleshooting
+# Siv3D Troubleshooting
